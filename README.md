@@ -1,4 +1,4 @@
-<h1 align="center">Wekcome Folks ;) , I'm Agrata Tiwari !</h1>
+<h1 align="center">Welcome Folks ;) , I'm Agrata Tiwari !</h1>
 <h3 align="center"> Learning new ways to tackle common problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Agrata05&label=Profile%20views&color=0e75b6&style=flat" alt="Agrata05" /> </p>
