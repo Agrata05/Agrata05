@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/agrata-tiwari-0511/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/agrata-tiwari-0511/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/agrata_tiwari/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/agrata_tiwari/?hl=en" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/miyako05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/miyako05" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/agrata01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="https://www.codechef.com/users/agrata01" height="30" width="40" /></a>
+<a href="https://leetcode.com/Agrata_tiwari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/Agrata_tiwari/" height="30" width="40" /></a>
+<a href="https://discord.gg/TJsHbejY" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/TJsHbejY" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
