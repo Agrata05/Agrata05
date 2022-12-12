@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Agrata05&label=Profile%20views&color=0e75b6&style=flat" alt="Agrata05" /> </p>
 
-- 🌱 I’m currently learning **DSA in C++**.
+I’m currently learning **DSA in C++**.
 
-- 📫 Find me online: **agratatiwary20375@gmail.com**
+Find me online: **agratatiwary20375@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
