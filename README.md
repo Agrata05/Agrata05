@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Agrata Tiwari</h1>
-<h3 align="center">A Passionate Learner</h3>
+<h1 align="center">Wekcome Folks ;) , I'm Agrata Tiwari !</h1>
+<h3 align="center"> Learning new ways to tackle common problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Agrata05&label=Profile%20views&color=0e75b6&style=flat" alt="Agrata05" /> </p>
 
 - 🌱 I’m currently learning **DSA in C++**.
 
-- 📫 How to reach me **agratatiwary20375@gmail.com**
-
-- ⚡ Fun fact **Done is just Do with 'ne' as a suffix.**
+- 📫 Find me online: **agratatiwary20375@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
